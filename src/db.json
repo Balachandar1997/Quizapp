@@ -1,0 +1,54 @@
+{
+    "users": [
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Jane Austen", "Charles Dickens", "F. Scott Fitzgerald"],
+        "answer": "William Shakespeare"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+        "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon dioxide"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Ag", "Au", "Hg", "Fe"],
+        "answer": "Au"
+      },
+      {
+        "question": "Who is the author of 'To Kill a Mockingbird'?",
+        "options": ["J.K. Rowling", "Harper Lee", "George Orwell", "Mark Twain"],
+        "answer": "Harper Lee"
+      },
+      {
+        "question": "What is the main component of Earth's atmosphere by volume?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": ["London", "Berlin", "Madrid", "Paris"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "question": "Who wrote the 'Harry Potter' book series?",
+        "options": ["J.K. Rowling", "George R.R. Martin", "J.R.R. Tolkien", "Stephen King"],
+        "answer": "J.K. Rowling"
+      },
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2", "N2"],
+        "answer": "H2O"
+      }
+    ]
+  }
